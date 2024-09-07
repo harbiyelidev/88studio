@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"CSS Innovations\nScript optimizations"}
+{"version":"1.0.0","news":"Script released!"}
